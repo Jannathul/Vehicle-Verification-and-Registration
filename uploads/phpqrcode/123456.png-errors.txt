@@ -1,0 +1,108 @@
+2021-08-27 08:29:07: 
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+2021-08-27 08:29:10: 
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+2021-08-27 08:29:11: 
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 71
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 53
+
+Warning: Trying to access array offset on value of type int in C:\xampp\htdocs\tech9\mini project 1\uploads\phpqrcode\qrsplit.php on line 62
