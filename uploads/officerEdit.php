@@ -63,7 +63,7 @@ if(isset($_POST["Submit"])){
   <div style="height: 10px; background: #27a9e1d7;"></div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a href="MyProfile.php" class="navbar-brand"><i class="fas fa-motorcycle"></i>VehicleInfo.com </a> 
+      <a href="AddDoc.php" class="navbar-brand"><i class="fas fa-motorcycle"></i>VehicleInfo.com </a> 
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarcollapse1">
         <span class="navbar-toggler-icon"> </span>
       </button>

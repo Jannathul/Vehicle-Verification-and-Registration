@@ -21,7 +21,7 @@ Officer_Confirm_Login(); ?>
   <div style="height: 10px; background: #27a9e1d7;"></div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a href="MyProfile.php" class="navbar-brand" style="font-size: 30px;"><i class="fas fa-motorcycle"></i>VehicleInfo.com</a> 
+      <a href="#" class="navbar-brand" style="font-size: 30px;"><i class="fas fa-motorcycle"></i>VehicleInfo.com</a> 
       
       
       

@@ -82,6 +82,11 @@ Confirm_Login(); ?>
           </a>
         </div>
         <div class="offset-lg-4 col-lg-4 mb-3">
+          <a href="theft.php" class="btn btn-danger btn-block">
+          <i class="fas fa-theater-masks"></i> Add Theft
+          </a>
+        </div>
+        <div class="offset-lg-4 col-lg-4 mb-3">
           <a href="Admin.php" class="btn btn-success btn-block">
             <i class="fas fa-users-cog"></i> Add Admin
           </a>

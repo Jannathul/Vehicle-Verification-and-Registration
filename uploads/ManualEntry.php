@@ -104,7 +104,7 @@ if(isset($_POST["Submit"])){
         <form action="ManualEntry.php" class="" method="POST">
           <div class="card bg-secondary text-light mb-2 mt-4">
             <div class="class-header">
-              <h1>Add New Vehicle</h1>
+              <h1>Add Vehicle Entry</h1>
             </div>
             <div class="card-body bg-dark">
               <div class="form-group">

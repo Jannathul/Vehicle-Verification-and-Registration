@@ -52,7 +52,7 @@ if(isset($_POST["Submit"])){
   <div style="height: 10px; background: #27a9e1d7;"></div>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-      <a href="MyProfile.php" class="navbar-brand"><h2><i class="fas fa-motorcycle"></i>VehicleInfo.com </h2></a> 
+      <a href="#" class="navbar-brand"><h2><i class="fas fa-motorcycle"></i>VehicleInfo.com </h2></a> 
       
     </div>
   </nav>
